@@ -52,6 +52,9 @@
     },
     {
       "outbound": "proxy",
+      "domain_keyword": [
+        "https://download.microsoft.com/download/9/e/a/9eac306f-d134-4609-9c58-35d1638c2363/MediaCreationTool_22H2.exe"
+      ],
       "process_name": [
         "Discord.exe",
         "firefox.exe"
